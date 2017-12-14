@@ -1,3 +1,7 @@
+# Version 0.0.2
+
+Update this file to be CHANGELOG.md
+
 # Version 0.0.1
 
 Just a test hotfix (version bump, nothing else)
