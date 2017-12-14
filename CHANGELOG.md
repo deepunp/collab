@@ -1,3 +1,7 @@
+# version 0.0.3
+
+Update README to indicate the use of Github personal access tokens
+
 # Version 0.0.2
 
 Update this file to be CHANGELOG.md
