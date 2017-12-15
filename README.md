@@ -10,3 +10,4 @@ To do this, get your token and then add it to your repo (or global) config like 
 
 `git config github.oauth.token TOKEN-GOES-HERE`
 line
+line
